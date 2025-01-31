@@ -1,0 +1,15 @@
+C:\Users\sidek\C-Sharp-Homework\First-steps-in-coding\DepositCalculator\bin\Debug\net8.0\DepositCalculator.exe
+C:\Users\sidek\C-Sharp-Homework\First-steps-in-coding\DepositCalculator\bin\Debug\net8.0\DepositCalculator.deps.json
+C:\Users\sidek\C-Sharp-Homework\First-steps-in-coding\DepositCalculator\bin\Debug\net8.0\DepositCalculator.runtimeconfig.json
+C:\Users\sidek\C-Sharp-Homework\First-steps-in-coding\DepositCalculator\bin\Debug\net8.0\DepositCalculator.dll
+C:\Users\sidek\C-Sharp-Homework\First-steps-in-coding\DepositCalculator\bin\Debug\net8.0\DepositCalculator.pdb
+C:\Users\sidek\C-Sharp-Homework\First-steps-in-coding\DepositCalculator\obj\Debug\net8.0\DepositCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidek\C-Sharp-Homework\First-steps-in-coding\DepositCalculator\obj\Debug\net8.0\DepositCalculator.AssemblyInfoInputs.cache
+C:\Users\sidek\C-Sharp-Homework\First-steps-in-coding\DepositCalculator\obj\Debug\net8.0\DepositCalculator.AssemblyInfo.cs
+C:\Users\sidek\C-Sharp-Homework\First-steps-in-coding\DepositCalculator\obj\Debug\net8.0\DepositCalculator.csproj.CoreCompileInputs.cache
+C:\Users\sidek\C-Sharp-Homework\First-steps-in-coding\DepositCalculator\obj\Debug\net8.0\DepositCalculator.sourcelink.json
+C:\Users\sidek\C-Sharp-Homework\First-steps-in-coding\DepositCalculator\obj\Debug\net8.0\DepositCalculator.dll
+C:\Users\sidek\C-Sharp-Homework\First-steps-in-coding\DepositCalculator\obj\Debug\net8.0\refint\DepositCalculator.dll
+C:\Users\sidek\C-Sharp-Homework\First-steps-in-coding\DepositCalculator\obj\Debug\net8.0\DepositCalculator.pdb
+C:\Users\sidek\C-Sharp-Homework\First-steps-in-coding\DepositCalculator\obj\Debug\net8.0\DepositCalculator.genruntimeconfig.cache
+C:\Users\sidek\C-Sharp-Homework\First-steps-in-coding\DepositCalculator\obj\Debug\net8.0\ref\DepositCalculator.dll

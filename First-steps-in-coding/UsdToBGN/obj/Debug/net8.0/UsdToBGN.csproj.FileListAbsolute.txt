@@ -1,0 +1,15 @@
+C:\Users\sidek\C-Sharp-Homework\First-steps-in-coding\UsdToBGN\bin\Debug\net8.0\UsdToBGN.exe
+C:\Users\sidek\C-Sharp-Homework\First-steps-in-coding\UsdToBGN\bin\Debug\net8.0\UsdToBGN.deps.json
+C:\Users\sidek\C-Sharp-Homework\First-steps-in-coding\UsdToBGN\bin\Debug\net8.0\UsdToBGN.runtimeconfig.json
+C:\Users\sidek\C-Sharp-Homework\First-steps-in-coding\UsdToBGN\bin\Debug\net8.0\UsdToBGN.dll
+C:\Users\sidek\C-Sharp-Homework\First-steps-in-coding\UsdToBGN\bin\Debug\net8.0\UsdToBGN.pdb
+C:\Users\sidek\C-Sharp-Homework\First-steps-in-coding\UsdToBGN\obj\Debug\net8.0\UsdToBGN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidek\C-Sharp-Homework\First-steps-in-coding\UsdToBGN\obj\Debug\net8.0\UsdToBGN.AssemblyInfoInputs.cache
+C:\Users\sidek\C-Sharp-Homework\First-steps-in-coding\UsdToBGN\obj\Debug\net8.0\UsdToBGN.AssemblyInfo.cs
+C:\Users\sidek\C-Sharp-Homework\First-steps-in-coding\UsdToBGN\obj\Debug\net8.0\UsdToBGN.csproj.CoreCompileInputs.cache
+C:\Users\sidek\C-Sharp-Homework\First-steps-in-coding\UsdToBGN\obj\Debug\net8.0\UsdToBGN.sourcelink.json
+C:\Users\sidek\C-Sharp-Homework\First-steps-in-coding\UsdToBGN\obj\Debug\net8.0\UsdToBGN.dll
+C:\Users\sidek\C-Sharp-Homework\First-steps-in-coding\UsdToBGN\obj\Debug\net8.0\refint\UsdToBGN.dll
+C:\Users\sidek\C-Sharp-Homework\First-steps-in-coding\UsdToBGN\obj\Debug\net8.0\UsdToBGN.pdb
+C:\Users\sidek\C-Sharp-Homework\First-steps-in-coding\UsdToBGN\obj\Debug\net8.0\UsdToBGN.genruntimeconfig.cache
+C:\Users\sidek\C-Sharp-Homework\First-steps-in-coding\UsdToBGN\obj\Debug\net8.0\ref\UsdToBGN.dll
