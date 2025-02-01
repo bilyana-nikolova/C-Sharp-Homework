@@ -5,7 +5,11 @@ VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsdToBGN", "UsdToBGN\UsdToBGN.csproj", "{2AE5D0E3-7EAB-4284-A43C-9DA218695AAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DepositCalculator", "DepositCalculator\DepositCalculator.csproj", "{AA10CA64-0030-4262-944A-59258578C2B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DepositCalculator", "DepositCalculator\DepositCalculator.csproj", "{AA10CA64-0030-4262-944A-59258578C2B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadianstoDegrees", "RadianstoDegrees\RadianstoDegrees.csproj", "{CB181A4C-EB5E-458F-97AC-192C12B0F805}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VacationBooksList", "VacationBooksList\VacationBooksList.csproj", "{9A9C1A8E-B89F-49DA-A344-A0FC63A70952}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{AA10CA64-0030-4262-944A-59258578C2B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA10CA64-0030-4262-944A-59258578C2B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA10CA64-0030-4262-944A-59258578C2B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB181A4C-EB5E-458F-97AC-192C12B0F805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB181A4C-EB5E-458F-97AC-192C12B0F805}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB181A4C-EB5E-458F-97AC-192C12B0F805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB181A4C-EB5E-458F-97AC-192C12B0F805}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A9C1A8E-B89F-49DA-A344-A0FC63A70952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A9C1A8E-B89F-49DA-A344-A0FC63A70952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A9C1A8E-B89F-49DA-A344-A0FC63A70952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A9C1A8E-B89F-49DA-A344-A0FC63A70952}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
